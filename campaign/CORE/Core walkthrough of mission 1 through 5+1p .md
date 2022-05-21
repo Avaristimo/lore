@@ -8,7 +8,7 @@ awakening
 
 ## mission playout ##
 ## mission briefing 
-the player must take their commander and rondevue with their allied commander
+the player must take their commander and rendez-vous with their allied commander
 ## objectives ##
 the player reaches the objective marker
 and learns basic controls of the game
